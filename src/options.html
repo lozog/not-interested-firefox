@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <title>Nah settings</title>
+    <meta charset="utf-8" />
+    <meta name="color-scheme" content="dark light" />
+    <style>
+        .setting {
+            padding: 10px 0;
+        }
+        #status {
+            padding: 10px 0;
+        }
+    </style>
+  </head>
+
+  <body>
+    <h2>Settings</h2>
+    <div class="setting">
+        <label>
+            <input type="checkbox" id="debug-mode"> Enable Debugging
+        </label>
+    </div>
+    <div class="setting">
+        <label>
+            <input type="checkbox" id="hide-nah-button"> Hide 'Not Interested' Button
+        </label>
+    </div>
+    <div class="setting">
+        <label>
+            <input type="checkbox" id="hide-channel-button"> Hide 'Don't Recommend Channel' Button
+        </label>
+    </div>
+    
+    <button id="save">Save</button>
+    <div id="status"></div>
+    <script src="options.js"></script>
+  </body>
+</html>

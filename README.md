@@ -2,9 +2,8 @@
 
 Tell Youtube in one click this video or channel is not interesting.
 
-[Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-not-interested-button/)
+[Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-not-interested-button/)  
 [Install for Chrome](https://chromewebstore.google.com/detail/nah/jlceoenebonplbmbdmpcmjipmnhbpema)
-
 
 ## **Before: 2 steps**
 
